@@ -1,0 +1,77 @@
+@import "less/bootstrap";
+@import "components/news-col3/news-col3.less";
+@import "components/callout/callout.less";
+@import "components/clients/clients.less";
+@import "components/contactform-right/contactform-right.less";
+@import "components/content-2col/content-2col.less";
+@import "components/content-left/content-left.less";
+@import "components/content-right/content-right.less";
+@import "components/features-3col/features-3col.less";
+@import "components/features-4col/features-4col.less";
+@import "components/footer-3col/footer-3col.less";
+@import "components/gallery-full/gallery-full.less";
+@import "components/nav-default/nav-default.less";
+@import "components/nav-menu/nav-menu.less";
+@import "components/news-col3-alt/news-col3-alt.less";
+@import "components/news-col4/news-col4.less";
+@import "components/slider-full/slider-full.less";
+@import "components/team-large/team-large.less";
+@import "components/testimonial-3col/testimonial-3col.less";
+@import "components/testimonial-single/testimonial-single.less";
+@import "components/vertlist-images/vertlist-images.less";
+@import "components/vertlist-text/vertlist-text.less";
+
+
+
+@baseFontColor:#a5a5a5 ;
+@baseFontColor2:#fff ;
+@baseHeadingColor:#ea2e49; /* red */
+@baseBgColor:#e4e4e4;
+@baseBgColor2:#fff;
+@altBgColor1:#ea2e49; /* red */
+@altBgColor2:#191919; /* darker grey */
+@altBgColor3:#252525; /* dark grey */
+@baseMargin: 10px;
+@basePadding: 10px;
+@baseFontSize: 16px;
+@fontLarge:24px;
+
+/* Global Mixins */
+.circle{
+margin-left: auto;
+margin-right:auto;
+border-radius: 50%;
+background-color: #4cc2f3;
+width:140px;
+height: 140px;
+padding:48px;
+
+}
+.circle:hover{
+background-color:#dcdcdc;
+-webkit-transition-property:color, background; 
+-webkit-transition-duration: .20s, .20s; 
+-webkit-transition-timing-function: linear, ease-in;
+}
+
+.button{
+    background-color:@altBgColor1;
+	color:@baseFontColor2;
+	border: 1px solid transparent;
+	padding:10px 40px;
+}
+.button-over{
+    background-color:transparent;
+	border: 1px solid @altBgColor1;
+	color:@baseFontColor2;
+	-webkit-transition: background 0.30s ease-in;
+    -moz-transition: background 0.30s ease-in;
+    -o-transition: background 0.30s ease-in;
+    transition: background 0.30s ease-in;
+}
+.section-color1{
+    background-color:@altBgColor2;
+    .widget-large__title{
+        color:@baseFontColor2;
+    }
+}
