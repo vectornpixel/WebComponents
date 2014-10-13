@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17682",
+"creatorBuild": "17945",
 "files": {
 	"\/components\/callout\/callout.less": {
 		"allowInsecureImports": 0,
@@ -22,15 +22,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/callout\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/callout\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/clients\/clients.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -50,15 +41,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/clients\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/clients\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/contactform-right\/contactform-right.less": {
 		"allowInsecureImports": 0,
@@ -80,15 +62,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/contactform-right\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/contactform-right\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/content-2col\/content-2col.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -108,15 +81,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/content-2col\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/content-2col\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/content-left\/content-left.less": {
 		"allowInsecureImports": 0,
@@ -138,15 +102,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/content-left\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/content-left\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/content-right\/content-right.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -166,24 +121,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/content-right\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/content-right\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/components\/css\/news-col3.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/css\/news-col3.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/features-3col\/features-3col.less": {
 		"allowInsecureImports": 0,
@@ -205,15 +142,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/features-3col\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/features-3col\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/features-4col\/features-4col.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -233,15 +161,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/features-4col\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/features-4col\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/footer-3col\/footer-3col.less": {
 		"allowInsecureImports": 0,
@@ -263,15 +182,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/footer-3col\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/footer-3col\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/gallery-full\/gallery-full.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -291,24 +201,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/gallery-full\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/gallery-full\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/components\/nav-default\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/nav-default\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/nav-default\/nav-default.less": {
 		"allowInsecureImports": 0,
@@ -330,15 +222,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/nav-menu\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/nav-menu\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/nav-menu\/nav-menu.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -358,15 +241,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/news-col3-alt\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/news-col3-alt\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/news-col3-alt\/news-col3-alt.less": {
 		"allowInsecureImports": 0,
@@ -388,15 +262,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/news-col3\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/news-col3\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/news-col3\/news-col3.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -416,15 +281,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/news-col4\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/news-col4\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/news-col4\/news-col4.less": {
 		"allowInsecureImports": 0,
@@ -446,15 +302,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/slider-full\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/slider-full\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/slider-full\/slider-full.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -474,15 +321,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/team-large\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/team-large\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/team-large\/team-large.less": {
 		"allowInsecureImports": 0,
@@ -504,15 +342,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/testimonial-3col\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/testimonial-3col\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/testimonial-3col\/testimonial-3col.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -532,15 +361,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/testimonial-single\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/testimonial-single\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/testimonial-single\/testimonial-single.less": {
 		"allowInsecureImports": 0,
@@ -562,15 +382,6 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/components\/vertlist-images\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/vertlist-images\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/components\/vertlist-images\/vertlist-images.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -590,15 +401,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/components\/vertlist-text\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/components\/vertlist-text\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/components\/vertlist-text\/vertlist-text.less": {
 		"allowInsecureImports": 0,
@@ -620,22 +422,13 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/css\/globals.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/css\/globals.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/globals.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"fileType": 1,
 		"ieCompatibility": 1,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/globals.less",
 		"outputAbbreviatedPath": "\/css\/globals.css",
@@ -648,50 +441,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/images\/icon1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1108,
-		"inputAbbreviatedPath": "\/images\/icon1.png",
-		"outputAbbreviatedPath": "\/images\/icon1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/icon2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1071,
-		"inputAbbreviatedPath": "\/images\/icon2.png",
-		"outputAbbreviatedPath": "\/images\/icon2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/icon3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1440,
-		"inputAbbreviatedPath": "\/images\/icon3.png",
-		"outputAbbreviatedPath": "\/images\/icon3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/placeholder.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3005,
-		"inputAbbreviatedPath": "\/images\/placeholder.jpg",
-		"outputAbbreviatedPath": "\/images\/placeholder.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		}
 	},
 "hooks": [
@@ -825,6 +574,10 @@
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1303,6 +1056,7 @@
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,

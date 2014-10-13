@@ -1,15 +1,8 @@
-/* Gallery image rollovers */
-   .view {
-   float: left;
-   overflow: hidden;
-   position: relative;
-   text-align: center;
-   cursor: default;
-   background: #fff;
-}
+
+
 .view .mask,.view .content {
-   width: 100%;
-   height: 100%;
+   width: @fullwidth;
+   height: @fullwidth;
    position: absolute;
    overflow: hidden;
    top: 0;
@@ -18,9 +11,16 @@
 .view > img {
    display: block;
    position: relative;
-   width:100%;
+   width:@fullwidth;
 }
-.view h2 {
+.view {
+   float: left;
+   overflow: hidden;
+   position: relative;
+   text-align: center;
+   cursor: default;
+   background: #fff;
+   h2 {
    text-transform: uppercase;
    color: #fff;
    text-align: center;
@@ -30,7 +30,7 @@
    background: rgba(0, 0, 0, 0.8);
    margin: 20px 0 0 0;
 }
-.view p {
+p {
    font-family: Georgia, serif;
    font-style: italic;
    font-size: 12px;
@@ -39,7 +39,7 @@
    padding: 10px 20px 20px;
    text-align: center;
 }
-.view a.info {
+a.info {
    display: inline-block;
    text-decoration: none;
    padding: 7px 14px;
@@ -50,11 +50,15 @@
    -moz-box-shadow: 0 0 1px #000;
    box-shadow: 0 0 1px #000;
 }
-.view a.info:hover {
+a.info:hover {
    -webkit-box-shadow: 0 0 5px #000;
    -moz-box-shadow: 0 0 5px #000;
    box-shadow: 0 0 5px #000;
 }
+}
+
+
+
    .view-tenth > img {
    -webkit-transform: scaleY(1);
    -moz-transform: scaleY(1);
@@ -67,7 +71,8 @@
    -ms-transition: all 0.7s ease-in-out;
    transition: all 0.7s ease-in-out;
 }
-.view-tenth .mask {
+.view-tenth{
+ .mask {
     padding-top:15%;
    background-color: #000;
    -webkit-transition: all 0.5s linear;
@@ -79,7 +84,7 @@
    filter: alpha(opacity=0);
    opacity: 0;
 }
-.view-tenth h2 {
+h2 {
    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
    background: transparent;
    margin: 20px 40px 0px 40px;
@@ -98,7 +103,7 @@
    filter: alpha(opacity=0);
    opacity: 0;
 }
-.view-tenth p {
+p {
    color: #333;
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
@@ -114,7 +119,7 @@
    -ms-transition: all 0.5s linear;
    transition: all 0.5s linear;
 }
-.view-tenth a.info {
+a.info {
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
    opacity: 0;
@@ -129,6 +134,10 @@
    -ms-transition: all 0.5s linear;
    transition: all 0.5s linear;
 }
+
+   }
+
+
 .view-tenth:hover > img {
    -webkit-transform: scale(10);
    -moz-transform: scale(10);
